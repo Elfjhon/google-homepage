@@ -1,0 +1,60 @@
+html {
+  background-color: #fff;
+}
+a {
+  float: right;
+  display: block;
+  color: #5f6368;
+  text-align: center;
+  padding: 14px; 
+  text-decoration: none;
+}
+img {
+  display: block;
+  margin: 10px 20px 10px 525px;
+}
+.box {
+  margin: 10px 20px 10px 250px;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 350px 20px 10px 10px;
+  padding: 10px 20px 10px 20px;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f2f2f2
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #5f6368;
+  text-align: center;
+  padding: 14px; 
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
